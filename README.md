@@ -1,7 +1,7 @@
 # 欢迎来到瓯北二中教师常用链接主页
 
 1.教师类  
-[浙江省中小学教师培训管理平台](https://pxglpt.zjedu.gov.cn/) 
+[浙江省中小学教师培训管理平台](https://pxglpt.zjedu.gov.cn/)   
 [坐班情况查询](https://link.jiandaoyun.com/r/5c7e00e8f7856a4cb89d014e)  
 
 2.学生类  
